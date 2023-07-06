@@ -131,6 +131,8 @@ export default function register() {
           </div>
         </div>
       </div>
+      {/* </div> 
+      // </div>*/}
     </section>
   )
 }
